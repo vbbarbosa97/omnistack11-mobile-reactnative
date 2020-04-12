@@ -1,0 +1,8 @@
+1 - expo init nome_do_projeto
+2 - yarn add @react-navigation/native
+3 - expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+4 - yarn add @react-navigation/stack // trabalha com navegção com botões
+5 - yarn add styled-components
+6 - expo install expo-constants // são algumas constantes do celular, exemplo o tamanho da status bar
+7 - expo install expo-mail-composer // para abrir o email por cima da tela
+8 - yarn add intl // lib para formatação dos valores
